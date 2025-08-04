@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Airflow logs and configs
+logs/
+airflow.cfg
+unittests.cfg
+
+# Virtual environments
+airflow310_env/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+#Folder For Previous Projects
+ETL_PRJ_1/
+ETL_PRJ_2/
